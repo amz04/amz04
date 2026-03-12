@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=0:1E90FF,100:000C40&text=Hello%20World!%20I%20am%20Abdulwahed%20Z.&section=header&reversal=false&fontAlign=62&textBg=false&fontColor=FFFFFF&animation=twinkling&desc=Software%20Engineer%20%7C%20System%20Builder%20%7C%20AI%20Enthusiast&descAlignY=31&fontSize=40&fontAlignY=14&descAlign=71" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=0:1E90FF,100:000C40&text=Hello%20World!%20I%20am%20Abdulwahed%20Z.&section=header&reversal=true&fontAlign=38&textBg=false&fontColor=FFFFFF&animation=twinkling&desc=Software%20Engineer%20%7C%20System%20Builder%20%7C%20AI%20Enthusiast&descAlignY=33&fontSize=40&fontAlignY=14&descAlign=28" width="100%" alt="Header"/>
 
 # 💫 About Me
 👨‍💻 **Currently working on**  
