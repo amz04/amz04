@@ -28,13 +28,11 @@ I enjoy turning random ideas into working software.
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amz04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amz04&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amz04&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 </p>
 
+<hr>
 
 <!--QUOTE-->
 <p align="center">
